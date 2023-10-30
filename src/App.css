@@ -1,0 +1,11 @@
+.container {
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
+}
+.word-count{
+  padding: 10px;
+}
+.input-bar{
+  height: 200px;
+  width: 500px;
+}
